@@ -1,0 +1,6 @@
+/.env
+/.venv
+/backups
+/FaceDetection.ipynb
+/data
+/logs
